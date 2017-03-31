@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: ""
 
 background-img: "../img/toronto-skyline.jpg"
 
