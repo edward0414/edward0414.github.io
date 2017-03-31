@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Hi, I am Edward." 
-  - text: "I am a second-year student at the University of Toronto."
+  - text: "I am a second-year computer scientist student at the University of Toronto."
   - text: "Welcome to my site!"
 
 me-img: "/img/profile.jpg"
@@ -140,8 +140,8 @@ email: "yenlin.feng@mail.utoronto.ca"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb: "Edward Feng is a passionate computer scientist who has a strong interest in artificial intelligence and big data and plans to delve deeper into these fields. His goal one day is to use the skills he learned from the fields to create applications that can make an impact on people's everyday life."
+author_blurb_image: "/img/profile.jpg"
 
 ##################
 # Social Buttons #
@@ -157,7 +157,7 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/profile.jpg"
+err-404-img:
 
 ##################
 # GPG on Keybase #
