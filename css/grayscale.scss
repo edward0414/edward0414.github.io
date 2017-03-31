@@ -162,9 +162,11 @@ a {
     padding: 100px 0;
     text-align: center;
     color: $intro-text-color;
+    /*
     {% if site.background-img %}
     background: url({{ site.background-img }}) no-repeat bottom center scroll;
     {% endif %}
+    */
     background-color: $header-background-color;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -173,6 +175,21 @@ a {
     .intro-body {
         display: table-cell;
         vertical-align: middle;
+            
+        /* video tag */
+        .video {
+            position: absolute;
+            min-width: 100%;
+            min-height: 100%;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%,-50%);
+            -moz-transform: translate(-50%,-50%);
+            -ms-transform: translate(-50%,-50%);
+            z-index: 0;
+        }
+        /* video tag */
+        
         .brand-heading {
             font-size: 40px;
         }
@@ -184,6 +201,7 @@ a {
                 text-shadow: 1px 0 1px #000;
             }
         }
+        
     }
     @media(min-width:768px) {
         height: 100%;
