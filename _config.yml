@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: ""
 
-background-img: "../img/toronto-skyline.jpg"
+background-img: ""
 
 ##############################
 # Dynamic Text on the Header #
