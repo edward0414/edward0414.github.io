@@ -56,7 +56,8 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Hi, I am Edward." 
-  - text: "I am a second-year computer scientist student at the University of Toronto."
+  - text: "I am a computer scientist student at the University of Toronto."
+  - text: "Feel free to contact me :)"
   - text: "Welcome to my site!"
 
 me-img: "/img/profile.jpg"
