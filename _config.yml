@@ -141,7 +141,7 @@ email: "yenlin.feng@mail.utoronto.ca"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Edward Feng is a passionate computer scientist who has a strong interest in artificial intelligence and big data and plans to delve deeper into these fields. His goal one day is to use the skills he learned from the fields to create applications that can make an impact on people's everyday life."
+author_blurb: "I am Edward Feng, a passionate and curious third-year computer scientist at the University of Toronto. For a while now I have been preparing for a career as a professional software developer through side projects and courses in computer science, such as databases and object-oriented programming. I particularly enjoy solving challenging problems and creating applications to automate tasks."
 author_blurb_image: "/img/profile.jpg"
 
 ##################
